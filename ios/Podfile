@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+target ‘pushRN’ do
+  # 友盟基础库
+  pod 'UMCCommon'
+  pod 'UMCSecurityPlugins'
+  # 友盟log库
+  pod 'UMCCommonLog'
+  # 友盟 推送 
+  pod 'UMCPush'
+end
+

@@ -1,0 +1,3 @@
+rootProject.name = 'pushRN'
+
+include ':app'
